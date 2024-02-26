@@ -1,0 +1,37 @@
+.First{
+  display: flex;
+  background-color: aqua;
+  justify-content: space-between;
+  
+
+}
+.back{
+  background-image: url("../public/image3.jpg");
+  height: 40rem;
+  background-size: 100%;
+}
+.organise{
+  background-image: url("../public/organise.jpg");
+  height: 40rem;
+  background-size: 100%;
+}
+.category{
+  background-image: url("ADMIN/category.jpg");
+  height: 40rem;
+  background-size: 100%;
+}
+.sub{
+  background-image: url("ADMIN/category.jpg");
+  height: 40rem;
+  background-size: 100%;
+}
+.password{
+  background-image: url("ADMIN/password.jpg");
+  height: 40rem;
+  background-size: 100%;
+}
+.exihibition{
+  background-image: url("ARTIST/exihi.jpg");
+  height: 40rem;
+  background-size: 100%;
+}
